@@ -10,3 +10,6 @@
 [submodule "webgrind"]
 	path = webgrind
 	url = git@github.com:kahunacoder/webgrind.git
+[submodule "xdebug"]
+	path = xdebug
+	url = git@github.com:kahunacoder/xdebug.git
