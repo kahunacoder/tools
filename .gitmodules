@@ -1,3 +1,6 @@
 [submodule "nodejs"]
 	path = nodejs
 	url = git@github.com:kahunacoder/nodejs.git
+[submodule "sublime"]
+	path = sublime
+	url = git@github.com:kahunacoder/sublime.git
