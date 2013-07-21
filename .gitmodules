@@ -13,3 +13,6 @@
 [submodule "xdebug"]
 	path = xdebug
 	url = git@github.com:kahunacoder/xdebug.git
+[submodule "cookbooks"]
+	path = cookbooks
+	url = git@github.com:kahunacoder/cookbooks.git
