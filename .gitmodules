@@ -7,3 +7,6 @@
 [submodule "gems"]
 	path = gems
 	url = git@github.com:kahunacoder/gems.git
+[submodule "webgrind"]
+	path = webgrind
+	url = git@github.com:kahunacoder/webgrind.git
