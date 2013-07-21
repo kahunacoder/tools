@@ -16,3 +16,6 @@
 [submodule "cookbooks"]
 	path = cookbooks
 	url = git@github.com:kahunacoder/cookbooks.git
+[submodule "bookmarks"]
+	path = bookmarks
+	url = git@github.com:kahunacoder/bookmarks.git
