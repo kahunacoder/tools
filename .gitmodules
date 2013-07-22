@@ -19,3 +19,6 @@
 [submodule "bookmarks"]
 	path = bookmarks
 	url = git@github.com:kahunacoder/bookmarks.git
+[submodule "phpunit"]
+	path = phpunit
+	url = git@github.com:kahunacoder/phpunit.git
